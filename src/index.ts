@@ -32,9 +32,8 @@ const product : Products []=[
 { id:1, name: "Feijao Manteiga",price: 1000, stock: 10},
 { id:1, name: "Arroz",price: 500, stock: 15},
 { id:1, name: "Bulacha Integral",price: 8, stock: 0},
-{ id:1, name: "Margarina",price: 102.4, stock: 16},
-
-]
+{ id:1, name: "Margarina",price: 102.4, stock: 16}
+];
 
 
 
