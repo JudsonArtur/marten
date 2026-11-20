@@ -48,3 +48,5 @@ function calculateTotal (price:number, quantity: number): number{
 
 console.log(welcomeUser(user));
 console.log("Utilizador ativo:", user.active);
+
+
